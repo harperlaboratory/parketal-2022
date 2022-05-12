@@ -1,4 +1,4 @@
-# Scripts for Park et al, 2022
+# R-scripts for Park et al, 2022
 
 Authors:
 Hankum Park; Qing Yu; Frances V. Hundley; Katherine Overmyer; Lia Serrano; Joao A. Paulo; Julia C. Paoli; Sharan Swarup; Joshua J. Coon; Steven P. Gygi; J. Wade Harper
